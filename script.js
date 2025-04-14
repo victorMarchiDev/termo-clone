@@ -11,7 +11,7 @@ const secretWord = wordList[Math.floor(Math.random() * wordList.length)].toUpper
 let currentRow = 0;
 let currentCol = 0;
 let board = Array.from({ length: rows }, () => Array(cols).fill(''));
-
+//js
 const letters = [
   ['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
   ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
