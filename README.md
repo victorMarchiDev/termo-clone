@@ -26,4 +26,7 @@ Feito com HTML, CSS e JavaScript, o projeto reproduz a lógica e visual do jogo 
 - Grid interativo com feedback visual
 - Teclado dinâmico que muda de cor conforme o progresso
 - Compatível com teclado físico e virtual
+  
+## 🎁 Teste agora mesmo no link abaixo!
+- https://termo-clone-tan.vercel.app/
 
